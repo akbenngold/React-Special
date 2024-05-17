@@ -34,9 +34,12 @@ This is the [Figma File](https://www.figma.com/design/NMNuXufiX7CMLhx3u0qRmP/Eco
 ## Contributing
 We welcome contributions from the community. To contribute, 
 1. Fork the repository
+
 2. Create a new branch
 ```git checkout -b [feature-name]```
+
 3. Make your changes
+
 4. Commit your changes
 ```git commit -m "Add feature-name"```
 
